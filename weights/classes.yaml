@@ -1,0 +1,4 @@
+classes:
+  - name: gun
+    color: '#b88d44'
+    skeleton: {}
